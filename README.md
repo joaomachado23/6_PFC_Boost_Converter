@@ -33,6 +33,6 @@ Neste repositório, é possível encontrar:
 
 - Um ficheiro PSIM (psimsch) com a simulação do conversor.
 
-Este trabalho foi fundamental para explorar novos conceitos e consolidar conhecimentos na área da eletrónica de potência, focando no hardware e firmware de controlo. Foi desafiante, dada a novidade na topologia e controlo, sendo que este ultimo foi investigado e nao abordado em aulas.
+Este trabalho foi fundamental para explorar novos conceitos e consolidar conhecimentos na área da eletrónica de potência, com foco no hardware e no firmware de controlo. Foi particularmente desafiante pela novidade da topologia e do método de controlo, que tiveram de ser investigados de forma autónoma, uma vez que não foram abordados em aulas.
 
 Um grande obrigado aos colegas que me acompanharam nesta jornada: Diego Brandão, João Santos, João Martins e Rui Pedroso.
