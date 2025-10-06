@@ -25,18 +25,14 @@ Os resultados obtidos foram bastante satisfatórios e promissores, especialmente
 
 Neste repositório, é possível encontrar:
 
-Um PDF com toda a documentação do projeto: design, simulação e conceção.
+- Um PDF com toda a documentação do projeto (apresentação): estado da arte, design, simulação, conceção e testes e resultados.
 
-Dois vídeos que mostram o resultado geral do protótipo.
+- Um documento em Excel com a extração da reta de tendência dos sensores, para usar dentro do ambiente de programação do microcontrolador.
 
-Um ficheiro PPT com a apresentação do projeto.
+- Um ficheiro ZIP com o código em C utilizado para a STM32.
 
-Um ficheiro ZIP com o código em C utilizado para a STM32.
+- Um ficheiro PSIM (psimsch) com a simulação do conversor.
 
-Um PDF com anexos relativos à configuração da STM32.
-
-Uma pasta com fotos dos principais elementos constituintes do protótipo.
-
-Este trabalho foi fundamental para consolidar conhecimentos em diversas áreas da eletrónica e da automação, unindo conceitos analógicos e digitais. Foi exigente e desafiante, mas extremamente gratificante.
+Este trabalho foi fundamental para explorar novos conceitos e consolidar conhecimentos na área da eletrónica de potência, focando no hardware e firmware de controlo. Foi desafiante, dada a novidade na topologia e controlo, sendo que este ultimo foi investigado e nao abordado em aulas.
 
 Um grande obrigado aos colegas que me acompanharam nesta jornada: Diego Brandão, João Santos, João Martins e Rui Pedroso.
